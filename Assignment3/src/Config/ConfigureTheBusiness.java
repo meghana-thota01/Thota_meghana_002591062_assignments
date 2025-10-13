@@ -1,7 +1,14 @@
 
 package Config;
 
-import edu.neu.lms.model.*;
+import model.BranchManager;
+import model.EcoSystem;
+import model.Branch;
+import model.Author;
+import model.Customer;
+import model.SystemAdmin;
+import model.Book;
+import model.Directories;
 import java.time.LocalDate;
 
 public class ConfigureTheBusiness {
